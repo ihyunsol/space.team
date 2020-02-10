@@ -1,1 +1,1 @@
-worker: lunch.bat
+worker: node bot.js
